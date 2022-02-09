@@ -28,13 +28,27 @@ h1 {
     color: #4a4a4a;
 }
 
+h3 {
+    text-align: center;
+}
+
+.eje {
+    display: inline-block;
+    color: #5dade2;
+}
+
 .imagen {
     position: relative;
-
     top: 18px;
     max-width: 100%;
     width: 23%;
     cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.imagen:hover {
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.06);
 }
 
 .contenedor {
