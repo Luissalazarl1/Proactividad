@@ -20,7 +20,6 @@ header {
     padding-top: 25px;
     padding-bottom: 25px;
     box-shadow: 0 1px 15px rgba(83, 70, 70, 0.1);
-    position: fixed;
     z-index: 100;
 }
 
