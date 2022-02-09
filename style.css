@@ -20,12 +20,18 @@ header {
     padding-top: 25px;
     padding-bottom: 25px;
     box-shadow: 0 1px 15px rgba(83, 70, 70, 0.1);
+    text-align: center;
     z-index: 100;
 }
 
 h1 {
-    text-align: center;
     color: #4a4a4a;
+    display: inline-block;
+}
+
+.foco {
+    display: inline-block;
+    max-width: 39px;
 }
 
 h3 {
