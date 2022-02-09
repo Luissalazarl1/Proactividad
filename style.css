@@ -42,7 +42,7 @@ h1 {
     max-width: 55%;
     display: grid;
     grid-template-columns: 50% 50%;
-    gap: 9px;
+    gap: 10px;
 
     text-align: center;
 }
@@ -51,6 +51,7 @@ h1 {
     background-color: white;
     box-shadow: 0 1px 15px rgba(83, 70, 70, 0.1);
     height: 45vh;
+    border-radius: 8px;
 }
 
 .container {
